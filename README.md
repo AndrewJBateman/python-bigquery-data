@@ -10,7 +10,6 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/AndrewJBateman/python-bigquery-data?style=plastic)
 
 * [:zap: Python BigQuery Data](#zap-python-bigquery-data)
-  * [:page_facing_up: Table of contents](#page_facing_up-table-of-contents)
   * [:books: General info](#books-general-info)
   * [:camera: Screenshots](#camera-screenshots)
   * [:signal_strength: Technologies](#signal_strength-technologies)
@@ -19,6 +18,7 @@
   * [:cool: Features](#cool-features)
   * [:clipboard: Status & To-do list](#clipboard-status--to-do-list)
   * [:clap: Inspiration](#clap-inspiration)
+  * [:file_folder: License](#file_folder-license)
   * [:envelope: Contact](#envelope-contact)
 
 ## :books: General info
@@ -75,6 +75,10 @@ rows_to_insert = [
 * [D-I-Ry: Write to BigQuery using Python](https://www.youtube.com/watch?v=fmGhBvA5tSo)
 * [Google Cloud Docs: BigQuery code samples](https://cloud.google.com/bigquery/docs/samples)
 
+## :file_folder: License
+
+* This project is licensed under the terms of the MIT license.
+
 ## :envelope: Contact
 
-* Repo created by [ABateman](https://www.andrewbateman.org) - you are welcome to [send me a message](https://andrewbateman.org/contact)
+* Repo created by [ABateman](https://github.com/AndrewJBateman), email: gomezbateman@yahoo.com
